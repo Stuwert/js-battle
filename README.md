@@ -10,7 +10,7 @@ Your mission is to create an arena where two characters battle.  Each character 
 ##Character Stretch
 * Attack 1 (An attack that has a 70% chance to launch and does (Attack x1) damage)
 * Attack 2 (An attack that has a 25% chance to launch and does (Attack x2)damage)
-* Special Attack (An attack that has a 5% chance to launch and is does (Strength x6) damage)
+* Special Attack (An attack that has a 5% chance to launch and is does (Attack x6) damage)
 * Last Words (A phrase that is displayed when the fight is over)
 
 ##Arena MVP
